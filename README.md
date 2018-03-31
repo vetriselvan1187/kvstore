@@ -21,7 +21,7 @@ Terminal 2:
 Terminal 3:
         curl -H "Content-Type: application/json" http://localhost:4455/set/key -d '{"name":"name"}'
 
-	curl -H "Content-Type: application/json" http://localhost:4466//get/key
+	curl -H "Content-Type: application/json" http://localhost:4466/get/key
 
 
 
